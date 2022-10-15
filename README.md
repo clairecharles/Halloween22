@@ -1,40 +1,39 @@
 <!-- markdownlint-disable-next-line -->
-<img alt="WebXDAO banner" src="https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png"/>
+![Screenshot from 2022-10-15 21 31 20](https://user-images.githubusercontent.com/67120042/196006443-5f89ab31-6447-4130-aaf7-a7b09a83196e.png)
 
----
 
-The content in this repository is temporary, we are making new web design for WebX DAO. If you want to help, please message us on [Discord](https://discord.gg/TSRwqx4K2v)
+
 
 ---
 
 ## Getting Started
 
-> Make sure to read our [contributing guidelines](https://github.com/WebXDAO/WebXDAO.github.io/blob/main/CONTRIBUTING.md)
+> Make sure to read our [contributing guidelines](https://github.com/clairecharles/Halloween22/blob/main/CONTRIBUTING.md)
 
 ### 1\. Skip all of the steps below by using Gitpod, which would automatically do all of that for you
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/WebXDAO/WebXDAO.github.io)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/clairecharles/Halloween22.git)
 
 ### 2\. Clone this Repository
 
 ```
-git clone https://github.com/WebXDAO/WebXDAO.github.io.git
+git clone https://github.com/clairecharles/Halloween22.git
 ```
 
 ### 3\. Navigate to the directory
 
 ```
-cd WebXDAO.github.io
+cd Halloween22
 ```
 
 ### 4\. Install dependencies
 
 ```
-npm install
+yarn install
 ```
 
 ### 5\. Run Nextjs
 
 ```
-npm run dev
+yarn dev
 ```
